@@ -1,4 +1,4 @@
-# Simple project for character Migration (BETA)
+# Simple project for character Migration
  
 # IS NOT SUPPORTED ANYMORE
 
